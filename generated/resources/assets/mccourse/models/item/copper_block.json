@@ -1,0 +1,6 @@
+{
+  "parent": "mccourse:block/copper_block",
+  "textures": {
+    "layer0": "mccourse:item/copper_block"
+  }
+}
